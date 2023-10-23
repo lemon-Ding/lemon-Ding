@@ -3,7 +3,7 @@ Glad to meet you here.
 - 🔭 I’m currently a college student ...
 - 🌱 I’m currently focusing on frontend
 - 👯 I’m desire to be a fullstack engineer.
-- 👯 My social media: Blog / CSDN / Zhihu / Juejin
+- 👯 My social media: CSDN / Zhihu / Juejin
 - 💬 Ask me about [bilibili](https://space.bilibili.com/499174829)
 - 📫 How to reach me: 18707945727@163.com
 ### 你好  😊
